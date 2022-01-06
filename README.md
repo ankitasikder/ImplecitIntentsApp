@@ -1,7 +1,6 @@
 # ImplecitIntentsApp
-# LBtoKG ANDROID APP
 
-***This 'Lbs to Kg Conversion Android App' using Java is created by Ankita Sikder, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This 'ImplecitIntentsApp Android App' using Java is created by Ankita Sikder, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: ankita.sikder14@gmail.com.** 
 
