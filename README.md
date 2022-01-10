@@ -30,7 +30,7 @@ ImplecitIntentsApp
                       └── java/com/example/implecitintentsapp
                                      └── MainActivity.java 
  ```             
-## Screenshots of NCS :point_down: 
+## Screenshots of this app :point_down: 
 
 <div align="center">
  
