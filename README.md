@@ -16,25 +16,25 @@
 
 <div align="justified">
 
+This is a basic android app created using java. Here we have to paste any valid uniform resource locator and the link can be opened by pressing 'OPEN URL' button. After clicking on it the options on that device to open that link will be shown. It is basically practice to make implecit intents in android development. This app can be used to open any url very easily. 
+      
 </div>
-
-## APP DOWNLOAD LINK : :point_right: <a href="" download>Click here to download</a>
 
 ## Folder Structure :point_down:
 ```bash
-lbtokg-app
+ImplecitIntentsApp
       └── app
            └── src
                 └── main
                       ├── AndroidManifest.xml
-                      └── java/com/example/braintrainer
+                      └── java/com/example/implecitintentsapp
                                      └── MainActivity.java 
  ```             
 ## Screenshots of NCS :point_down: 
 
 <div align="center">
  
-<a href="pics/lb1.jpeg"><img src="pics/lb1.jpeg" width="250" height= "400"></a> <a href="pics/lb2.jpeg"><img src="pics/lb2.jpeg" width="250" height= "400"></a> <a href="pics/lb3.jpeg"><img src="pics/lb3.jpeg" width="250" height= "400"></a>
+<a href="pics/p1.jpeg"><img src="pics/p1.jpeg" width="250" height= "400"></a> <a href="pics/p2.jpeg"><img src="pics/p2.jpeg" width="250" height= "400"></a> <a href="pics/p3.jpeg"><img src="pics/p3.jpeg" width="250" height= "400"></a>
 
 
 
