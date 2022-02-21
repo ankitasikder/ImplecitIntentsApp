@@ -16,7 +16,7 @@
 
 <div align="justified">
 
-This is a basic android app created using java. Here we have to paste any valid uniform resource locator and the link can be opened by pressing 'OPEN URL' button. After clicking on it the options on that device to open that link will be shown. It is basically practice to make implecit intents in android development. This app can be used to open any url very easily. 
+This is a basic android app created using java. Here we have to paste any valid uniform resource locator and the link can be opened by pressing 'OPEN URL' button. After clicking on it the options on that device to open that link will be shown. It is basically practice to make implecit intents in android development. This app can be used to open any url very easily. An implicit intent specifies an action that can invoke any app on the device able to perform the action. Using an implicit intent is useful when your app cannot perform the action, but other apps probably can and you'd like the user to pick which app to use.
       
 </div>
 
